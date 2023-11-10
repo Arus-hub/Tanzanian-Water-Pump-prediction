@@ -19,7 +19,7 @@ Identified unique occurrences in each column.
 
  Utilized Folium to plot a map, showcasing the status data points according to their location.
 
- ![App Screenshot](Screenshot (600).png)
+ ![App Screenshot](Map.png)
  
 ###  Data Visualization: 
 Performed extensive visual analysis to compare various features such as water source, extraction type, region, water quality, and more. 
