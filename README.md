@@ -1,7 +1,7 @@
 
 # Tanzanian-Water-Pump-prediction
 
-
+ ![Screenshot](https://drivendata-public-assets.s3.amazonaws.com/hand_pump_diagram.png)
 ## Project Overview 
 "Data Driven Pump It Up" is a data-driven project focused on predicting the functionality of water pumps. This is a classification problem with the following categories: Functional, Not Functional, and Functional but Needs Repair.
 
