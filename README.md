@@ -18,8 +18,8 @@ Identified unique occurrences in each column.
  Found that 50% of pumps were functional, and approximately 7% were functional but needed repair. 
 
  Utilized Folium to plot a map, showcasing the status data points according to their location.
- ![Map]([Screenshot (600).png](https://drivendata-public-assets.s3.amazonaws.com/hand_pump_diagram.png))
- ![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://drivendata-public-assets.s3.amazonaws.com/hand_pump_diagram.png))
+
+ ![App Screenshot](Screenshot (600).png)
  
 ###  Data Visualization: 
 Performed extensive visual analysis to compare various features such as water source, extraction type, region, water quality, and more. 
