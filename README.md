@@ -16,16 +16,18 @@ The primary aim of this project is to analyze and predict the status of water pu
 Identified unique occurrences in each column. 
  
  Found that 50% of pumps were functional, and approximately 7% were functional but needed repair. 
+  ![Screenshot](images/types.png)
 
  Utilized Folium to plot a map, showcasing the status data points according to their location.
 
- ![App Screenshot](Map.png)
+ ![Map Screenshot](images/Map.png)
  
 ###  Data Visualization: 
 Performed extensive visual analysis to compare various features such as water source, extraction type, region, water quality, and more. 
 
 ### Correlation Matrix: 
 Plotted a matrix to find relationships between different features.
+
 
 ## Feature Analysis 
 
@@ -70,6 +72,14 @@ Metrics used include
 ## Key Findings 
 ### Model Performance: 
 The models' performance was assessed based on accuracy, precision, recall, F1 score, and confusion matrix outputs. 
+#### Model Performance
+![Preformance Screenshot](images/Model.png)
+#### Random Forest
+ ![RF Screenshot](images/RFC.png)
+#### Extreme Gradient Boosting
+ ![XGB Screenshot](images/XGB.png)
+#### Light Gradient Boosting
+ ![XGB Screenshot](images/LG.png)
 
 Random Forest showcased significant feature importance in predictions.
 ### Cross-Validation:
