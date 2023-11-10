@@ -27,6 +27,7 @@ Performed extensive visual analysis to compare various features such as water so
 
 ### Correlation Matrix: 
 Plotted a matrix to find relationships between different features.
+ ![Screenshot](images/Corellation.png)
 
 
 ## Feature Analysis 
