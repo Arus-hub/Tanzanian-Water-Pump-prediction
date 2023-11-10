@@ -19,6 +19,7 @@ Identified unique occurrences in each column.
 
  Utilized Folium to plot a map, showcasing the status data points according to their location.
  ![Map]([Screenshot (600).png](https://drivendata-public-assets.s3.amazonaws.com/hand_pump_diagram.png))
+ ![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://drivendata-public-assets.s3.amazonaws.com/hand_pump_diagram.png))
  
 ###  Data Visualization: 
 Performed extensive visual analysis to compare various features such as water source, extraction type, region, water quality, and more. 
